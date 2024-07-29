@@ -1,7 +1,7 @@
 
-# ProLLMArchive
+# ProteinNLPArchive
 
-Welcome to ProLLMArchive ! This is a curated repository dedicated to research papers that implement large language models (LLMs) in the field of proteins.
+Welcome to ProteinNLPArchive ! This is a curated repository dedicated to research papers that implement large language models (LLMs) in the field of proteins.
 
 
 ## Overview
@@ -23,7 +23,7 @@ This repository includes:
 
 ## Contributing
 
-We welcome contributions to **ProLLMArchive**. If you have a research paper to add or share, please follow these steps:
+We welcome contributions to **ProteinNLPArchive**. If you have a research paper to add or share, please follow these steps:
 
 - Fork the repository.
 - Add your paper along with the links to the associated code repositories (if available).
@@ -39,4 +39,4 @@ If you have any questions or suggestions, feel free to reach out to me:
 - Email: hardik.sharma@temple.edu
 - GitHub: hrdikshrma
 
-Thank you for visiting ProLLMArchive ! Happy reading!
+Thank you for visiting ProteinNLPArchive ! Happy reading!
