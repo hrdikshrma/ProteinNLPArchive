@@ -20,6 +20,7 @@ This repository includes:
  - **ProLLM**: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction [[paper]](https://www.biorxiv.org/content/10.1101/2024.04.18.590025v2.abstract) [[code]](https://github.com/MingyuJ666/ProLLM)
  - **ProLLaMa**: A protein large language model for multi-task protein language processing [[paper]](https://arxiv.org/abs/2402.16445) [[code]](https://github.com/PKU-YuanGroup/ProLLaMA) [[model & dataset]](https://huggingface.co/GreatCaptainNemo)
  - **ProtT3**: Protein-to-Text Generation for Text-based Protein Understanding [[paper]](https://arxiv.org/abs/2405.12564) [[code]](https://github.com/acharkq/ProtT3)
+ - **GeneRAG**: Enhancing Large Language Models with Gene-Related Task by Retrieval-Augmented Generation [[paper]](https://www.biorxiv.org/content/10.1101/2024.06.24.600176v1.abstract) [[code]](https://zenodo.org/records/13119834) [[website]](https://sites.google.com/view/gene-rag/home)
 
 
 ## Contributing
